@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "wordproject2",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\suzun\\OneDrive\\ドキュメント\\0_WordProject2\\word-project2\\amplify\\backend\\api\\wordproject2\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authwordproject28869de40"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": [
+      {
+        "mode": "AWS_IAM"
+      }
+    ]
+  }
+}
